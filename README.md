@@ -1,4 +1,4 @@
-# python-api-challenge
+# Visualization and Analysis with an API
 "What is the weather like as we approach the equator?"
 
 ## Project and Findings
